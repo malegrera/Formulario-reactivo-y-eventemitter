@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Wine, WineQuantity } from '../../model/interfaces';
+import { WineQuantity } from '../../model/interfaces';
 import {winedata} from '../../model/data';
 
 @Component({
